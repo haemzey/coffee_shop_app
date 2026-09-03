@@ -1,0 +1,1 @@
+Dockerized Frontend Application
